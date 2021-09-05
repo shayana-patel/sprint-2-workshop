@@ -1,0 +1,25 @@
+body {
+    background-color: lightcoral;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+h1 {
+    font-size: 50pt;
+    margin-bottom: 120px;
+}
+p {
+    font-size: 20pt;
+}
+.navy-text {
+    color:navy;
+}
+.orangered-text {
+    color: orangered;
+}
+#name {
+    font-size: 60pt;
+    color: orangered;
+}
+a {
+    font-size: 30pt;
+}
